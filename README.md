@@ -16,7 +16,6 @@ I developed a simple Data Compression Tool using the C programming language to u
 
 output:
 
-<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/c816d653-ae5c-431e-ba58-382a7bcb041c" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/576b7001-543c-4e5f-8977-a895d13825c3" />
 
-
-<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/733d3887-8353-44df-8e8d-be3a74e58ee0" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/584048d5-181a-4281-8454-9c75bbf5e9aa" />
